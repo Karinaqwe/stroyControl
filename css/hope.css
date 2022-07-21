@@ -1,0 +1,55 @@
+.hope{
+    margin-top: 124px;
+}
+.hope__content{
+    display: flex;
+    justify-content: center;
+    
+}
+.hope__sector{
+    flex-direction: row-reverse;
+}
+.hope__title{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    color: #212B31;
+    margin-top: 17px;
+}
+.hope__suptitle{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #72787D;
+    width: 857px;
+    margin: auto;
+    margin-top: 60px;
+}
+.hope__name{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #212B31;
+    width: 217px;
+}
+.hope__description{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #72787D;
+}
+.hope__text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #212B31;
+}
+.hope__photo{
+    background: #F6F8F9;
+    border-radius: 5px;;
+}
